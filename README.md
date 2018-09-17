@@ -1,4 +1,4 @@
-# Exonum
+# Cellpinda Blockchain
 
 **Status:**
 [![Travis Build Status](https://img.shields.io/travis/exonum/exonum/master.svg?label=Linux)](https://travis-ci.org/exonum/exonum)
@@ -19,10 +19,10 @@
 [![Join the chat at https://t.me/ExonumRU](https://img.shields.io/badge/Russian%20chat-on%20telegram-brightgreen.svg)](https://t.me/ExonumRU)
 [![Website](https://img.shields.io/website/http/exonum.com.svg?label=Website)](https://exonum.com)
 
-[Exonum](https://exonum.com/) is an extensible open-source framework for
+[Cellpinda Blockchain](http://coin.cellpinda.com/) is an extensible open-source framework for
 creating blockchain applications. Exonum can be used to create cryptographically
 powered distributed ledgers in virtually any problem domain, including FinTech,
-GovTech, and LegalTech. The Exonum framework is oriented towards creating
+GovTech, and LegalTech. The Cellpinda Blockchain is oriented towards creating
 permissioned blockchains, that is, blockchains with the known set of blockchain
 infrastructure providers.
 
