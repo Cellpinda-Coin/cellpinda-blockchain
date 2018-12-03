@@ -26,7 +26,7 @@ GovTech, and LegalTech. The Cellpinda Blockchain is oriented towards creating
 permissioned blockchains, that is, blockchains with the known set of blockchain
 infrastructure providers.
 
-This is the main Exonum repository that includes
+This is the main Cellpinda blockchain repository that includes
 
 * [Exonum core library](exonum/README.md).
 * [Exonum testing framework](testkit/README.md).
